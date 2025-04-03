@@ -1,2 +1,2 @@
 # DSA-Java
-Java implementations of basic DSA
+Java implementations of basic Data Structires and Algorithms
