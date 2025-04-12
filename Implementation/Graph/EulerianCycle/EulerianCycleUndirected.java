@@ -2,8 +2,6 @@ package Implementation.Graph.EulerianCycle;
 
 import Implementation.Graph.Graph;
 
-import java.util.*;
-
 public class EulerianCycleUndirected {
     private final Graph graph;
 
